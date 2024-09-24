@@ -1,16 +1,22 @@
-## Hi there 👋
+### Bem-vindo! 👋 Eu sou [João Guilherme!](https://github.com/xockado)
 
-<!--
-**xockado/xockado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
-Here are some ideas to get you started:
+## Me conheça melhor:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 Estou estudando Python e HTML5 / CSS3
+- 📚 Sou estudante do Ensino Médio 😅
+- 💪🏼 Sempre tentando melhorar e aprender mais!
+
+---
+
+##### Eu utilizo:
+
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+
+
+##### Me aventuro também em:
+
+![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
+
